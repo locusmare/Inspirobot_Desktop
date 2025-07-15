@@ -1,14 +1,10 @@
-                                                                                                                             
-											v1.0.0.0	Release Date: 2021.03.31 (y.m.d)
-----------------------------------------------------------------------------------------------------------------------------------------
-                                                                                                        
-"Inspirobot Desktop" is distributed in the hope that it will be useful but without any warranty of any kind. Developer of this program 
-can not be hold liable for any good or bad outcomes caused by using this program and it's features. PLEASE USE AT YOUR OWN RISK!
-
 Inspirobot Desktop is a simple Windows client (unofficial) to show inspirational quotes on your desktop using InspiroBot API. 
 Every image created with InspiroBot API can be saved directly to program's location. 
 Additionally if you change "Inspirobot_win32.exe" to "Inspirobot_win32-autosave.exe", it will automatically save the images after 
 everytime getting a new quote. 
+
+"Inspirobot Desktop" is distributed in the hope that it will be useful but without any warranty of any kind. Developer of this program 
+can not be hold liable for any good or bad outcomes caused by using this program and it's features. PLEASE USE AT YOUR OWN RISK!
 
 Locusmare.com and the developer is in no way affiliated with InspiroBot.me and this program is not endorsed, certified or otherwise 
 approved in any way by InspiroBot. All rights are copyrighted to their respectful owners.
@@ -30,11 +26,3 @@ Have fun!
 
 
 
--If you find a bug please let me know! There is a contact form on the web page.
-
---------------------------------------------------------------------------------------------------------------------
-################################ CHANGELOG: [version] __ [release date (yy.mm.dd)] ################################
-##[1.0.0.0] __  [2021.03.31]########################################################################################
-First version of Inspirobot Desktop is released.
-
---------------------------------------------------------------------------------------------------------------------
